@@ -1,0 +1,30 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    color: #030303;
+    font-size: 20px;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    color: rgb(72, 33, 212);
+    text-align: center;
+    margin: 50px;
+}
+
+p{
+    width: 50%;
+    min-height: 100px;;
+    margin: 0;
+    float: left;
+    text-align: justify;
+    padding: 80px;
+}
+
+.pink{
+    color: hotpink;
+}
+
